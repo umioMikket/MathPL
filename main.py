@@ -1,7 +1,7 @@
 import sys
 
 import api.variables as var
-from api.interpreter import *
+from api.process import *
 from api.console import *
 from api.open import *
 
