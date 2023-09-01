@@ -1,8 +1,6 @@
 import math
 from api.console import *
 
-console = Console()
-
 class module:
     def pi(): return math.pi
     def e(): return math.e
