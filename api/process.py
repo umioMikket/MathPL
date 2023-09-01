@@ -12,7 +12,6 @@ def process(line):
     line = line.strip()
     line = line.replace("^", "**")
     line = re.sub(r"#.*","",line)
-    console.info(str(variables))
 
     # Если линия не начинаеться сразу с комментария, то тогда ее нужно выполнить
     if line and not line.startswith("#"):
