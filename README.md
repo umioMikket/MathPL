@@ -24,6 +24,7 @@ print(X = {x}, Y = {y})
 - [ ] Graph support to visualize calculation results
 - [ ] File output support for saving results
 - [ ] Modularity support for splitting code into logical parts
+- [ ] If, else functions and loops
 ---
 💻 What has already been done?
 
