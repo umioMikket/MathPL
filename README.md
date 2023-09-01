@@ -9,8 +9,9 @@ Mathematical programming language for BASIC mathematics
 🧑‍💻 MathPL code example that calculates the square of the sum of five and the ratio of five to pi:
 
 ```python
-x = (5 + 5 / module.pi())^2
-print(Variable x equals {x})
+x = 10 + module.cos(90)
+y = 10 + module.sin(90)
+print(X = {x}, Y = {y})
 ```
 
 ---
