@@ -8,7 +8,7 @@ Mathematical programming language for solving problems in BASIC mathematics
 ---
 🧑‍💻 MathPL code example that calculates the square of the sum of five and the ratio of five to pi:
 
-```
+```python
 x = (5 + 5 / module.pi())^2
 print(Variable x equals {x})
 ```
