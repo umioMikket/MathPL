@@ -1,6 +1,5 @@
-
 #MathPL 📏
-#Mathematical programming language for solving problems in BASIC mathematics
+Mathematical programming language for solving problems in BASIC mathematics
 ---
 ⚠️ The project is under development and may contain errors and shortcomings! ⚠️
 
