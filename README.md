@@ -1,5 +1,5 @@
 MathPL 📏
-Mathematical programming language for BASIC mathematics
+Mathematical programming language for mathematics
 ---
 ⚠️ The project is under development and may contain errors and shortcomings! ⚠️
 
