@@ -1,6 +1,6 @@
 variables = {}
 user_functions = {}
-
+errors = []
 old_line = ""
 line_number = 1
 
